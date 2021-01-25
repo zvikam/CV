@@ -1,16 +1,3 @@
-<table>
-  <tr>
-    <td>
-Zvika Meiseles
-
-
-
-https://github.com/zvikam
-
-https://www.linkedin.com/in/zvikameiseles
-</td>
-    <td>
-
 ## SUMMARY
 
 Software engineer with over 20 years of experience in a vast range of software development fields, ranging from low-level driver development and hardware integration to Win32 UI and bash scripting. Experience with Windows and Linux development environments and server management.
@@ -21,12 +8,6 @@ Self educated and fast learner.
 Personal interest in reverse engineering, low level programming, embedded projects and close hardware interaction.
 
 CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 finisher.
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
 
 ## SKILLS
 * Languages: C/C++, x86 Assembly, Python, Java, C#, Shell scripting
@@ -163,6 +144,3 @@ Specialization in software computer engineering, hardware computer engineering a
 * Object oriented programming in C++
 * Advanced Data Communication (IDF)
 * Advanced cryptography (IDF)
-    </td>
-  </tr>
-</table>
