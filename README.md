@@ -1,4 +1,4 @@
-## SUMMARY
+## Summary
 
 Software engineer with over 20 years of experience in a vast range of software development fields, ranging from low-level driver development and hardware integration to Win32 UI and bash scripting. Experience with Windows and Linux development environments and server management.
 Able to analyze, understand and resolve complex software problems quickly.
@@ -9,7 +9,7 @@ Personal interest in reverse engineering, low level programming, embedded projec
 
 CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 finisher.
 
-## SKILLS
+## Skills
 * Languages: C/C++, x86 Assembly, Python, Java, C#, Shell scripting
 * User level unix development (Linux, Solaris, AIX, HP-UX)
 * Linux kernel development
@@ -19,10 +19,10 @@ CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 
 * Reverse engineering and code analysis tools
 * Close hardware integration
 
-## EXPERIENCE
+## Experience
 
-Senior software engineer, LANDA digital printing
-Rehovot, Israel — 2018-Present
+### Senior software engineer, LANDA digital printing
+_Rehovot, Israel — 2018-Present_
 
 Design and implement a software component for real time image acquisition and analysis.
 
@@ -31,14 +31,14 @@ In charge of all project layers, including image acquisition board integration, 
 Real-time Qt and C++17 on Windows.
 
 ### Python software engineer, SAIPS
-#### Tel-Aviv, Israel — 2017-2018
+_Tel-Aviv, Israel — 2017-2018_
 
 Software and infrastructure engineer, working on Ford's AV project as part of the offline environment mapping team.
 
 High Scalability Python/Docker environment.
 
 ### Hands-on R&D team leader, Correlsense
-#### Tel-Aviv, Israel — 2010-2018
+_Tel-Aviv, Israel — 2010-2018_
 
 Lead a team of 3 strong developers.
 
@@ -56,8 +56,8 @@ Accomplishments
 * Help architect complex customer solutions.
 * DevOps: 3rd party software installation and configuration for R&D purposes, python, docker.
 
-### Senior developer, Agent R&D team, Correlsense
-#### Herzliya, Israel — 2007-2010
+### Senior developer, Data collection team, Correlsense
+_Herzliya, Israel — 2007-2010_
 
 Design and implement the agent side of SharePath™, a multi-platform application performance monitoring system from scratch.
 
@@ -72,8 +72,12 @@ Design and implement the agent side of SharePath™, a multi-platform applicatio
 * Reverse engineering of Java and C# code.
 * Design and implement an Internet-Explorer BHO for HTTP/S request monitoring.
 
+### Freelance projects
+* MPEG-2 video relay Win32 service using video protocols (RTSP, RTP, MPEG-2 TS) and extensions to various 3rd party libraries (Live555, libVLC) with SNMP MIB monitoring.
+* Image manipulation library using existing open-source libraries (libvips, libpng), including implementing features and extensions to the open-source libraries.
+
 ### Software engineer, Image processing R&D team, Negevtech
-#### Rehovot, Israel — 2005-2007
+_Rehovot, Israel — 2005-2007_
 
 Design and implement a 2nd generation Real-time image processing software for a wafer-inspection machine, developed in C++/DCOM/Win32 environment.
 
@@ -83,12 +87,12 @@ Design and implement a 2nd generation Real-time image processing software for a 
 * Maintain and troubleshoot 1st generation IP software using Matrox Image processing boards.
 
 ### Project manager, IDF
-#### Tel-Aviv, Israel — 2003-2004
+_Tel-Aviv, Israel — 2003-2004_
 
 Lead the development of a web-based knowledge management and messaging application.
 
 ### Java software engineer, IDF
-#### Tel-Aviv, Israel — 2002-2003
+_Tel-Aviv, Israel — 2002-2003_
 
 Software developer in an enterprise-scale J2EE based messaging platform using Websphere/MQSeries environment.
 #### Accomplishments
@@ -96,7 +100,7 @@ Software developer in an enterprise-scale J2EE based messaging platform using We
 * System maintenance and programming.
 
 ### System software developer and administrator, IT department, IDF
-#### Tel-Aviv, Israel — 1999-2002
+_Tel-Aviv, Israel — 1999-2002_
 
 System administrator in charge of the unit’s Windows servers (IIS, Exchange).
 
@@ -109,7 +113,7 @@ Software developer for the IT department.
 * Windows servers and network configuration, capacity planning for new systems.
 
 ### Embedded software developer, Elbit systems
-#### Haifa, Israel — 1995-1999
+_Haifa, Israel — 1995-1999_
 
 Embedded systems programmer using a variety of operating systems (proprietary, VxWorks, Windows CE) for several military systems.
 
@@ -124,17 +128,13 @@ BSP for WinCE.
 * Develop a communication driver (VxWorks) for a proprietary military targeting computer.
 
 
-## EDUCATION
+## Education
 ### Technion - Israel Institute of Technology
 #### B.Sc. Electrical engineering — 1995-1999
                                                                                        
 Specialization in software computer engineering, hardware computer engineering and digital-signal processing.
 
-## INDEPENDENT PROJECTS
-* MPEG-2 video relay Win32 service using video protocols (RTSP, RTP, MPEG-2 TS) and extensions to various 3rd party libraries (Live555, libVLC) with SNMP MIB monitoring.
-* Image manipulation library using existing open-source libraries (libvips, libpng), including implementing features and extensions to the open-source libraries.
-
-## INDEPENDANT COURSES
+## Independent Courses
 * Malware analysis (Pluralsight)
 * Control of mobile robots (Coursera)
 * Win32 Programming
