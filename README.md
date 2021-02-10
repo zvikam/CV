@@ -22,6 +22,10 @@ CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 
 * Windows and Linux kernel development
 * Close hardware integration
 
+## Independent Courses
+* Zero2Automated Malware analysis course (currently enrolled)
+* Malware analysis (Pluralsight)
+
 ## Experience
 
 #### <ins>Senior software engineer, LANDA digital printing</ins>
@@ -136,7 +140,3 @@ BSP for WinCE.
 ##### B.Sc. Electrical engineering — 1995-1999
                                                                                        
 Specialization in software computer engineering, hardware computer engineering and digital-signal processing.
-
-## Independent Courses
-* Zero2Automated Malware analysis course (currently enrolled)
-* Malware analysis (Pluralsight)
