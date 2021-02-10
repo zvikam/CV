@@ -138,12 +138,5 @@ BSP for WinCE.
 Specialization in software computer engineering, hardware computer engineering and digital-signal processing.
 
 ## Independent Courses
+* Zero2Automated Malware analysis course (currently enrolled)
 * Malware analysis (Pluralsight)
-* Control of mobile robots (Coursera)
-* Win32 Programming
-* Enterprise Java Beans Programming
-* Websphere application server
-* WDM Device-drivers for Windows XP
-* Object oriented programming in C++
-* Advanced Data Communication (IDF)
-* Advanced cryptography (IDF)
