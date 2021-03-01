@@ -18,7 +18,7 @@ CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 
 * Low level understanding of network communication protocols
 * Protocol analysis
 * Reverse engineering and code analysis tools
-* DevOps (OS, Docker, Web & App servers, SCM, CI, Scripting, Packging)
+* DevOps (OS, Docker, Web & App servers, SCM, CI, Scripting, Packaging)
 * Windows and Linux kernel development
 * Close hardware integration
 
@@ -51,6 +51,8 @@ Lead a team of 3 strong developers.
 
 In charge of the 2nd generation agent component for SharePath™, including software architecture, feature implementation, maintenance releases and software support.
 
+C, C++, C#, Java, Bash, CI/CD, DevOps, IT.
+
 ##### Accomplishments
 * 3rd party API tracking.
 * Implement an IIS and Nginx modules for activity monitoring.
@@ -66,7 +68,7 @@ In charge of the 2nd generation agent component for SharePath™, including soft
 #### <ins>Senior developer, Data collection team, Correlsense</ins>
 _Herzliya, Israel — 2007-2010_
 
-Design and implement the agent side of SharePath™, a multi-platform application performance monitoring system from scratch.
+Design and implement the agent side of SharePath™, a multi-platform application performance monitoring system from scratch (C, C++, C#, Linux Kernel).
 
 ##### Accomplishments
 * Design and implement a Linux kernel module for real-time network communication monitoring and analysis.
@@ -80,8 +82,8 @@ Design and implement the agent side of SharePath™, a multi-platform applicatio
 * Design and implement an Internet-Explorer BHO for HTTP/S request monitoring.
 
 #### <ins>Freelance projects</ins>
-* MPEG-2 video relay Win32 service using video protocols (RTSP, RTP, MPEG-2 TS) and extensions to various 3rd party libraries (Live555, libVLC) with SNMP MIB monitoring.
-* Image manipulation library using existing open-source libraries (libvips, libpng), including implementing features and extensions to the open-source libraries.
+* MPEG-2 video relay C++ Win32 service using video protocols (RTSP, RTP, MPEG-2 TS) and extensions to various 3rd party libraries (Live555, libVLC) with SNMP MIB monitoring.
+* Image manipulation library using existing open-source libraries (libvips, libpng), including implementing features and extensions to the open-source C++ libraries.
 
 #### <ins>Software engineer, Image processing R&D team, Negevtech</ins>
 _Rehovot, Israel — 2005-2007_
@@ -102,16 +104,14 @@ Lead the development of a web-based knowledge management and messaging applicati
 _Tel-Aviv, Israel — 2002-2003_
 
 Software developer in an enterprise-scale J2EE based messaging platform using Websphere/MQSeries environment.
-##### Accomplishments
-* Implement an HTML based MQ monitoring tool.
-* System maintenance and programming.
+Implement an HTML based MQ monitoring tool.
 
 #### <ins>System software developer and administrator, IT department, IDF</ins>
 _Tel-Aviv, Israel — 1999-2002_
 
 System administrator in charge of the unit’s Windows servers (IIS, Exchange).
 
-Software developer for the IT department.
+Software developer for the IT department (C, C++).
 
 ##### Accomplishments
 * Developed distributed monitoring software for MS-Windows servers.
@@ -127,6 +127,8 @@ Embedded systems programmer using a variety of operating systems (proprietary, V
 Driver developer for Win95, NT and CE. 
 
 BSP for WinCE.
+
+Assembly, C, C++.
 
 ##### Accomplishments
 * Implement a Win32 military communication network simulator.
