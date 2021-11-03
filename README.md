@@ -7,7 +7,7 @@ Self educated and fast learner.
 
 Personal interest in reverse engineering, low level programming, embedded projects and close hardware interaction.
 
-CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 finisher.
+CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019, 2020 & 2021 finisher.
 
 ## Contact
 <zvika.meiseles@gmail.com>
@@ -28,8 +28,15 @@ CTF player, focus on reverse engineering. FlareOn 2018 participant, 2019 & 2020 
 
 ## Experience
 
+#### <ins>Senior software engineer, Cybereason</ins>
+_Tel-Aviv, Israel — 2021-Present_
+
+Implement new Anti-Ransomware component.
+
+Real-time C++17 on Windows.
+
 #### <ins>Senior software engineer, LANDA digital printing</ins>
-_Rehovot, Israel — 2018-Present_
+_Rehovot, Israel — 2018-2021_
 
 Design and implement a software component for real time image acquisition and analysis.
 
